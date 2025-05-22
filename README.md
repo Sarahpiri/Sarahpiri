@@ -7,9 +7,9 @@ Welcome to my GitHub! I'm a **Frontend Developer** with a keen interest in **cra
 ### 🚀 What I'm Up To
 
 - 🔭 **Currently Building:** I'm focused on working on **a personal portfolio site using React and Node.js**.
-- 🌱 **Learning & Growing:** My current learning journey involves diving deeper into **WebAssembly for high-performance browser applications and advanced CSS animations with motion framer**.
-- 💡 **Exploring Ideas:** I'm particularly fascinated by **web accessibility best practices and how to build inclusive digital products for everyone**.
-- 🤝 **Open to Collaboration:** If you're working on something related to **UI/UX innovation, responsive design challenges, or open-source frontend tooling**, let's connect!
+- 🌱 **Learning & Growing:** My current learning journey involves deepening my understanding of **core JavaScript concepts and the principles of responsive design**. I'm also preparing myself to explore **state management patterns in React**.
+- 💡 **Exploring Ideas:** I'm interested in understanding how to build **simple yet highly functional user interfaces** that provide a great user experience. I'm always looking for ideas to create small, fun projects.
+- 🤝 **Open to Collaboration:** I'd love to collaborate on projects that help me **gain real-world experience with larger codebases** or work with individuals who can provide me with **constructive feedback**.
 
 ---
 
