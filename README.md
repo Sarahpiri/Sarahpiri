@@ -37,7 +37,7 @@ Here's a snapshot of the technologies and tools I frequently use:
 
 ### 📫 Let's Connect!
 
-- **LinkedIn:** https://www.linkedin.com/in/sarah-piri-5147132bb/
+- **LinkedIn:** https://www.linkedin.com/in/sarah-piri/
 - **Email:** sarahpiri992@gmail.com
 
 I'm always open to discussing new ideas, sharing knowledge, and networking with fellow developers. Don't hesitate to reach out!
